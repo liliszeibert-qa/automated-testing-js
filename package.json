@@ -1,0 +1,11 @@
+{
+  "name": "automated-testing-js",
+  "version": "1.0.0",
+  "description": "JavaScript Automated Testing course - Unit, UI and API testing",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"No tests specified yet\""
+  },
+  "author": "Lili Szeibert"
+}
